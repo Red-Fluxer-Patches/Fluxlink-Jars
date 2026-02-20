@@ -38,7 +38,7 @@ _LAVALINK_VERSION_PATTERN = re.compile(
     re.MULTILINE | re.VERBOSE,
 )
 _RELEASES_YAML = Path(__file__).absolute().parent / "releases.yaml"
-_RED_JARS_REPO = "https://github.com/Cog-Creators/Lavalink-Jars"
+_RED_JARS_REPO = "https://github.com/Red-Fluxer-Patches/Fluxlink-Jars"
 _DEFAULT_PLUGIN_REPOSITORY = "https://maven.lavalink.dev/releases"
 
 
